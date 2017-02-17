@@ -25,7 +25,7 @@ post_slider_check_key:
 <p style="text-align: center;"><strong> Sterling Pacific Meat Company</strong></p>
 <p style="text-align: center;">6114 Scott Way
 Commerce, CA 90040</p>
-<p class="map-directions" style="text-align: center;"><a href="https://www.google.com/maps/dir//6114+Scott+Way,+Commerce,+CA/@33.9793022,-118.2196621,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80c2ce6525257377:0xa44b1061d30da057!2m2!1d-118.149622!2d33.979322" target="_blank"> [TS_VCSC_Icon_Font icon="ts-awesome-map" color="#2185d0"] Get Directions</a></p>
+<p class="map-directions" style="text-align: center;"><a href="https://www.google.com/maps/dir//6114+Scott+Way,+Commerce,+CA/@33.9793022,-118.2196621,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80c2ce6525257377:0xa44b1061d30da057!2m2!1d-118.149622!2d33.979322" target="_blank">[TS_VCSC_Icon_Font icon="ts-awesome-map" color="#2185d0"] Get Directions</a></p>
 [/om_cc_vc_google_maps_element][/css_animation][/vc_column_inner][vc_column_inner width="1/3"][css_animation animation="fade-in" duration=".75" delay=".75"][vc_column_text]<span class="stand-out">Sterling Pacific Meat Company</span>
 6114 Scott Way
 Commerce, CA 90040
