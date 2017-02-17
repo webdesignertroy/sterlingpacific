@@ -1,0 +1,45 @@
+---
+ID: 39
+post_title: Products
+author: SPM Online
+post_date: 2016-06-24 00:05:08
+post_excerpt: ""
+layout: page
+permalink: >
+  http://dev.sterlingpacificmeat.com/products/
+published: true
+fpu-thumb-fld:
+  - 'a:2:{s:9:"_thumb_id";i:1302;s:11:"_thumb_type";s:10:"attachment";}'
+tc-thumb-fld:
+  - 'a:2:{s:9:"_thumb_id";i:1302;s:11:"_thumb_type";s:10:"attachment";}'
+layout_key:
+  - ""
+post_slider_check_key:
+  - "0"
+---
+[vc_row animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="100%"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
+<h2 style="text-align: center;">Global Leaders</h2>
+[/vc_column_text][/vc_column][/vc_row][vc_row animation_view="fadeInLeft" css3animations_in="Fade In Left" animation_offset="100%"][vc_column][vc_column_text el_class="subtitle"]
+<h3 style="text-align: center;">In Protein Provisions to Business Customers</h3>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content" content_placement="middle"][vc_column][TS_VCSC_Image_Link_Grid content_images="159,705,711,1040,720" content_images_size="large" content_images_titles="Beef,Poultry,Lamb|comma| Pork &amp; Veal,Seafood,Wild Game &amp; Speciality," content_images_links="/products/beef/,/products/poultry/,/products/lamb-poultry-veal/,/products/seafood/,/products/wild-game-specialty/" data_grid_target="_parent" data_grid_invalid="display" data_grid_order="true" el_file=""][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][vc_empty_space height="25px"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
+<h3 style="text-align: center;">Full Service Custom Protein Processing</h3>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is one of North America’s largest full service BRC Certified custom protein processors serving restaurants, theme parks, airlines, food service, and other businesses.  Our fully industrialized 70,000 square foot complex located in Southern California offers a full spectrum of raw, fresh and frozen protein products specializing in:
+<ul>
+ 	<li>Consistent portioning</li>
+ 	<li>Terrific quality &amp; taste</li>
+ 	<li>Portion control services</li>
+ 	<li>Custom &amp; value added flavor profiles</li>
+ 	<li>Custom wet and dry aging</li>
+</ul>
+Our protein provisions are vast, including:
+<ul>
+ 	<li>Beef</li>
+ 	<li>Poultry</li>
+ 	<li>Lamb</li>
+ 	<li>Pork</li>
+ 	<li>Veal</li>
+ 	<li>Seafood</li>
+ 	<li>Wild Game</li>
+ 	<li>Specialty Proteins</li>
+</ul>
+Please visit the individual product links above to learn more.[/vc_column_text][vc_column_text el_class="say-it-loud"]We are proud to serve restaurants, theme parks, hotels, grocery chains, wholesalers and more - working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
