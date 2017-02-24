@@ -25,4 +25,33 @@ post_slider_check_key:
 <h1 class="page-title" style="text-align: center;">Seafood<img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row content_placement="middle" animation_view="fadeInDown" css3animations_in="Fade In Down" el_class="no-link"][vc_column][TS_VCSC_Image_Link_Grid content_images="1034" content_images_size="large" data_grid_invalid="display" data_grid_order="true" el_class="single-image-max" el_file=""][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Full Service Custom Protein Processing</h3>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is one of North America's largest full service custom protein processors, providing businesses with the highest quality proteins, including consistent portioning, color, quality and taste. Our products include a full spectrum of beef, poultry, lamb, pork, veal, seafood, wild game and specialty proteins produced in our fully industrialized 70,000 square foot complex located in Southern California.[/vc_column_text][vc_column_text el_class="say-it-loud"]We are proud to serve restaurants, theme parks, hotels, grocery chains, wholesalers and more - working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is one of North America's largest full service custom protein processors, providing businesses with the highest quality proteins, including consistent portioning, color, quality and taste. Our products include a full spectrum of beef, poultry, lamb, pork, veal, seafood, wild game and specialty proteins produced in our fully industrialized 70,000 square foot complex located in Southern California.[/vc_column_text][vc_column_text el_class="say-it-loud"]
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element say-it-loud">
+<div class="wpb_wrapper">
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner ">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element say-it-loud">
+<div class="wpb_wrapper">
+
+We are proud to serve large scale restaurant chains, theme parks, hotels, airlines, grocery chains, small restaurants, wholesalers and more – working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
