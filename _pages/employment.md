@@ -25,7 +25,7 @@ post_slider_check_key:
 <h1 style="text-align: center;">Employment</h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1468326519687{margin-top: -25px !important;}"][vc_column][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1468326653344{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Join Our Team</h3>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is pleased to provide an environment that encourages growth, achievement, and innovative thinking.  We have a strong promote-from-within culture, and at the same time, also look outside for new talent to join our Team.  As a large employer, we hire across a full spectrum of job categories.[/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is pleased to provide a working environment that encourages growth, achievement, and innovative thinking.  We have a strong promote-from-within culture, and at the same time, also look outside for creative and experienced new talent to join our team.  As a large employer, we hire across a full spectrum of job categories.[/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]
 <div class="presentation-container">
 <div class="presentation-image">
 
