@@ -25,17 +25,17 @@ post_slider_check_key:
 <h1 class="page-title" style="text-align: center;">Facilities &amp; Distribution<img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="98%" animation_speed="1500"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Facilities</h3>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1467155188898{margin-bottom: -30px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat is synonymous with quality - and our commitment to invest in both our employees and state-of-the-art facilities and equipment are core to our industry leadership. Highlights of our facility include:
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1467155188898{margin-bottom: -30px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat is synonymous with quality - and our commitment to invest our employees, our state-of-the-art facilities, and equipment are core to continually achieving industry leadership. Highlights of our facility include:
 <ul>
  	<li>Over 70,000 square feet of state-of-the-art equipment with 100,000 square feet of additional capacity</li>
  	<li>BRC Certified - Grade A</li>
- 	<li>Exceptional Food Safety Record</li>
- 	<li>Full Protein Product Line, specializing in Beef and Poultry</li>
- 	<li>Large Scale Grinding Capacity to Serve National Food Service and Retail Chains</li>
- 	<li>Specialized Poultry Operations for Maximum Consistency and Output</li>
- 	<li>Vaccuum Tumbling and Line Injection Processing</li>
- 	<li>Fully Built and Equipped In-house Laboratory with Food Safety Staff</li>
- 	<li>Friendly, Accessible Customer Service Staff Who Can Readily Assist You</li>
+ 	<li>Exceptional food safety record</li>
+ 	<li>Full protein product lines, specializing in Beef and Poultry</li>
+ 	<li>Large scale grinding capacity to serve national accounts and retail chains</li>
+ 	<li>Specialized Poultry operations for maximum consistency and output</li>
+ 	<li>Vacuum tumbling and line injection processing</li>
+ 	<li>Fully built and equipped in-house laboratory with food safety staff</li>
+ 	<li>Friendly, accessible customer service staff who can readily assist you</li>
 </ul>
 Sterling operates day and night shifts, six days per week, providing just-in-time products to its customers.[/vc_column_text][vc_empty_space height="20px"][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Distribution</h3>
