@@ -21,7 +21,7 @@ post_slider_check_key:
 <h1 style="text-align: center;">About Us</h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1468326519687{margin-top: -25px !important;}"][vc_column][vc_column_text el_class="about-us"]
 <h4><strong>History</strong></h4>
-Sterling Pacific Meat Company is a second-generation processor of USDA inspected fresh meat, poultry and other protein food products. We have grown from a family-run business to one of the largest protein providers in the US. Our steady, strategic growth has allowed us to maintain the attention to detail and customer service we provided as a family-run business, while also being able to offer our customers a broader product selection at competitive pricing.
+Sterling Pacific Meat Company is a second-generation processor of USDA inspected fresh meat, poultry and other protein food products. Through our commitment to customers and steady state-of-the-art investments in people, processes and equipment, we have grown from a family-run business to one of the largest protein providers in the United States. Our steady, strategic growth has allowed us to maintain attention to detail and customer service we provided as a family-run business, while also being able to offer our customers tremendous economies of scale and a broad product selection at competitive pricing.
 <h4><strong>Mission: </strong>Commitment to Food Safety, Quality, Consistency &amp; Exceptional Service</h4>
 <ul>
  	<li>To ensure our customers succeed by providing safe quality products, superior customer service and product knowledge unsurpassed in our industry.</li>
