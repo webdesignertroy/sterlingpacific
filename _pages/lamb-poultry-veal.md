@@ -29,7 +29,7 @@ post_slider_check_key:
 <h3 style="text-align: center;">Lamb, Pork, Veal and More</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]We offer a full array of portion controlled pork, veal and lamb chops, injected loins, pork/lamb crown racks, bone &amp; tied lamb or pork legs, and other specialty cuts. We also offer frozen pork back ribs, pork spare ribs, and veal osso bucco, plus an array of sub-primal cuts like tenderloins, pork cushion meat, lamb/veal shanks, and more.
 
-Our bacon, sausage, hams, hot dogs and other specialty processed lines include a variety of well known brand names such as Applewood Smoked Bacon, Garden Burger Patties.
+Our bacon, sausage, hams, hot dogs and other specialty processed lines include a variety of well known brand names such as Applewood Smoked Bacon and Garden Burger Patties.
 
 We are also happy to collaborate with your chef and incorporate our vast knowledge and network of spice providers along with the expertise of our own in-house chef to create value-added marinated products that can customize any of our portion cuts of proteins specifically for you.[/vc_column_text][vc_column_text el_class="say-it-loud"]
 <div class="vc_row wpb_row vc_row-fluid">
