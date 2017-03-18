@@ -20,4 +20,4 @@ post_slider_check_key:
 slide_template:
   - default
 ---
-[vc_row full_width="stretch_row" content_placement="middle" css=".vc_custom_1489800617561{padding-right: 2em !important;padding-left: 2em !important;}"][vc_column][vc_column_text][rev_slider alias="home-page"][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][/vc_column][/vc_row]
+[vc_row full_width="stretch_row" full_height="yes" columns_placement="top" css=".vc_custom_1489824916343{padding-right: 2em !important;padding-left: 2em !important;}"][vc_column][vc_column_text][rev_slider alias="home-page"][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][/vc_column][/vc_row]
