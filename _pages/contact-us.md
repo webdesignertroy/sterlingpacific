@@ -36,9 +36,9 @@ Commerce, CA 90040
 <a id="contact-focus" href="#"><i class="fa fa-envelope"></i>Contact Us</a>
 <a href="https://www.facebook.com/SterlingPacificMeatCompany/" target="_blank"><i class="fa fa-facebook"></i>Visit Us On Facebook</a>[/vc_column_text][/css_animation][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_separator][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
 <h3>Let's Get Cooking!</h3>
-<p class="attentionfont">Fill out the Contact Form and let us know how we can support your business needs.</p>
-<p class="attentionfont">Wish to contact Sales directly? Please email <a href="mailto=matt.cullen@sterlingpacificmeat.com">Matt.Cullen@SterlingPacificMeat.com</a>.</p>
-
-<h5><em><strong>Note</strong>: Your privacy is important. No information will be shared with any third parties. </em></h5>
-<h5><strong>Call us:  (323) 838-9400</strong></h5>
-[/vc_column_text][vc_btn title="Privacy Policy »" style="flat" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fprivacy-policy%2F|||"][/vc_column][vc_column width="1/2"][contact-form-7 id="452"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="70px"][/vc_column][/vc_row]
+<p class="attentionfont">Fill out the Contact Form and let us know how we can support your business needs. <em><strong>Note</strong>: Your privacy is important. No information will be shared with any third parties. </em></p>
+[/vc_column_text][vc_btn title="Privacy Policy »" style="flat" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fprivacy-policy%2F|||"][vc_column_text]
+<p class="attentionfont">Wish to contact Sales directly? Please email <a href="mailto:matt.cullen@sterlingpacificmeat.com">Matt.Cullen@SterlingPacificMeat.com</a>.</p>
+[/vc_column_text][vc_btn title="Print &amp; Complete Credit App" style="flat" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2017%2F03%2Fcredit-app-placeholder.pdf|title:Credit%20Application%20Placeholder|target:%20_blank|" el_class="cta"][vc_column_text]
+<p class="attentionfont"><a href="tel:3238389400">Call Us: (323) 838-9400</a></p>
+[/vc_column_text][/vc_column][vc_column width="1/2"][contact-form-7 id="452"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="70px"][/vc_column][/vc_row]
