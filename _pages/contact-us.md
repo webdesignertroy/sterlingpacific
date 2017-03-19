@@ -18,10 +18,12 @@ layout_key:
   - ""
 post_slider_check_key:
   - "0"
+slide_template:
+  - default
 ---
 [vc_row full_width="stretch_row" content_placement="middle" ts_row_bg_effects="parallax" ts_row_bg_image="879" ts_row_parallax_speed="7" ts_row_overlay_use="true" ts_row_overlay_color="rgba(0,0,0,0.25)"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text css_animation="top-to-bottom" el_class="subtitle whitefont"]
 <h1 style="text-align: center;">Contact Us</h1>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][vc_empty_space][vc_row_inner][vc_column_inner width="2/3"][css_animation animation="fade-in" duration=".75" delay=".75"][om_cc_vc_google_maps_element map_type="TERRAIN" scroll_to_zoom="false" draggable="true" keyboard_shortcuts="true" rotate_control="true" center="33.9793665,-118.14956519999998|6114 Scott Way, Commerce, CA 90040" descr="" hide_marker_text="false" _cc_clearfix_1="" disable_double_click_zoom="false" zoom_control="true" map_type_control="false" scale_control="true" street_view_control="false" height="500" zoom_level="12"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][vc_empty_space][vc_row_inner][vc_column_inner width="2/3"][css_animation animation="fade-in" duration=".75" delay=".75"][om_cc_vc_google_maps_element map_type="TERRAIN" scroll_to_zoom="false" draggable="true" keyboard_shortcuts="true" rotate_control="true" center="33.9793665,-118.14956519999998|6114 Scott Way, Commerce, CA 90040" hide_marker_text="false" disable_double_click_zoom="false" zoom_control="true" map_type_control="false" scale_control="true" street_view_control="false" height="500" zoom_level="12"]
 <p style="text-align: center;"><strong> Sterling Pacific Meat Company</strong></p>
 <p style="text-align: center;">6114 Scott Way
 Commerce, CA 90040</p>
@@ -33,8 +35,9 @@ Commerce, CA 90040
 <a href="tel:3238389400"><i class="fa fa-phone"></i>(323) 838-9400</a>
 <a id="contact-focus" href="#"><i class="fa fa-envelope"></i>Contact Us</a>
 <a href="https://www.facebook.com/SterlingPacificMeatCompany/" target="_blank"><i class="fa fa-facebook"></i>Visit Us On Facebook</a>[/vc_column_text][/css_animation][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_separator][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
-<h3>Your message is greatly appreciated.</h3>
-<p class="attentionfont">If your message requires a response, we will be sure to return your message within 48 hours.</p>
+<h3>Let's Get Cooking!</h3>
+<p class="attentionfont">Fill out the Contact Form and let us know how we can support your business needs.</p>
 
-<h5><em><strong>Note</strong>: Your privacy is important. No information relinquished on this site will be shared with any third parties. Please read our Privacy Policy for further details.</em></h5>
-<strong>Call us:  (323) 838-9400</strong>[/vc_column_text][vc_btn title="Privacy Policy »" style="flat" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fprivacy-policy%2F|||"][/vc_column][vc_column width="1/2"][contact-form-7 id="452"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="70px"][/vc_column][/vc_row]
+<h5><em><strong>Note</strong>: Your privacy is important. No information will be shared with any third parties. </em></h5>
+<h5><strong>Call us:  (323) 838-9400</strong></h5>
+[/vc_column_text][vc_btn title="Privacy Policy »" style="flat" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fprivacy-policy%2F|||"][/vc_column][vc_column width="1/2"][contact-form-7 id="452"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="70px"][/vc_column][/vc_row]
