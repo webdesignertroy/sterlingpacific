@@ -37,6 +37,7 @@ Commerce, CA 90040
 <a href="https://www.facebook.com/SterlingPacificMeatCompany/" target="_blank"><i class="fa fa-facebook"></i>Visit Us On Facebook</a>[/vc_column_text][/css_animation][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_separator][/vc_column][/vc_row][vc_row][vc_column width="1/2"][vc_column_text]
 <h3>Let's Get Cooking!</h3>
 <p class="attentionfont">Fill out the Contact Form and let us know how we can support your business needs.</p>
+<p class="attentionfont">Wish to contact Sales directly? Please email <a href="mailto=matt.cullen@sterlingpacificmeat.com">Matt.Cullen@SterlingPacificMeat.com</a>.</p>
 
 <h5><em><strong>Note</strong>: Your privacy is important. No information will be shared with any third parties. </em></h5>
 <h5><strong>Call us:  (323) 838-9400</strong></h5>
