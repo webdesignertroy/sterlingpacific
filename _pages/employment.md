@@ -9,13 +9,13 @@ permalink: >
   http://dev.sterlingpacificmeat.com/employment/
 published: true
 fpu-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:929;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{s:9:"_thumb_id";i:1532;s:11:"_thumb_type";s:10:"attachment";}'
 layout_key:
   - ""
 post_slider_check_key:
@@ -46,7 +46,9 @@ slide_template:
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <div class="presentation-container">
 <div class="presentation-image">
-<div class="overlay-text"><img class="alignnone wp-image-1532" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/sterling_trucks-sign-portrait-1-222x300.jpg" alt="" width="307" height="415" />Driving</div>
+
+<img class="alignnone wp-image-1532" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2017/03/truck-portrait.jpg" alt="Driving - Sterling Truck Fleet" width="731" height="1024" />
+<div class="overlay-text">Driving</div>
 </div>
 <ul>
  	<li>Truck and Diesel Mechanics</li>
@@ -61,7 +63,7 @@ slide_template:
 <div class="presentation-container">
 <div class="presentation-image">
 
-<img class="alignnone wp-image-1531" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/sterling_warehouse-emp-DSC_0286-229x300.jpg" alt="" width="389" height="510" />
+<img class="alignnone wp-image-1531" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2017/03/employees.jpg" alt="Production - Sterling Employees" width="731" height="1024" />
 <div class="overlay-text">Production</div>
 </div>
 <ul>
