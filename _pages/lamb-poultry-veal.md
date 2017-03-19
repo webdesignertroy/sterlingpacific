@@ -22,6 +22,8 @@ layout_key:
   - ""
 post_slider_check_key:
   - "0"
+slide_template:
+  - default
 ---
 [vc_row animation_view="fadeIn" css3animations_in="Fade In"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h1 class="page-title" style="text-align: center;">Lamb, Pork &amp; Veal<img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
@@ -31,34 +33,4 @@ post_slider_check_key:
 
 Our bacon, sausage, hams, hot dogs and other specialty processed lines include a variety of well known brand names such as Applewood Smoked Bacon and Garden Burger Patties.
 
-We are also happy to collaborate with your chef and incorporate our vast knowledge and network of spice providers along with the expertise of our own in-house chef to create value-added marinated products that can customize any of our portion cuts of proteins specifically for you.[/vc_column_text][vc_column_text el_class="say-it-loud"]
-<div class="vc_row wpb_row vc_row-fluid">
-<div class="wpb_column vc_column_container vc_col-sm-12">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element say-it-loud">
-<div class="wpb_wrapper">
-<div class="vc_row wpb_row vc_row-fluid">
-<div class="wpb_column vc_column_container vc_col-sm-12">
-<div class="vc_column-inner ">
-<div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element say-it-loud">
-<div class="wpb_wrapper">
-
-We are proud to serve large scale restaurant chains, theme parks, hotels, airlines, grocery chains, small restaurants, wholesalers and more – working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="vc_row wpb_row vc_row-fluid"></div>
-[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+We are also happy to collaborate with your chef and incorporate our vast knowledge and network of spice providers along with the expertise of our own in-house chef to create value-added marinated products that can customize any of our portion cuts of proteins specifically for you.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
