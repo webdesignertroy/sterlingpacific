@@ -20,6 +20,8 @@ layout_key:
   - ""
 post_slider_check_key:
   - "0"
+slide_template:
+  - default
 ---
 [vc_row animation_view="fadeIn" css3animations_in="Fade In"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h1 class="page-title" style="text-align: center;">Poultry<img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
@@ -35,4 +37,4 @@ Our poultry product line includes:
  	<li>Value-added marinated products</li>
  	<li>Antibiotic free, organic or free range selections</li>
 </ul>
-[/vc_column_text][vc_column_text el_class="say-it-loud"]We are proud to serve large scale restaurant chains, theme parks, hotels, airlines, grocery chains, small restaurants, wholesalers and more - working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
