@@ -16,12 +16,14 @@ layout_key:
   - ""
 post_slider_check_key:
   - "0"
+slide_template:
+  - default
 ---
 [vc_row animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="100%"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h2 style="text-align: center;">Global Leaders</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row animation_view="fadeInLeft" css3animations_in="Fade In Left" animation_offset="100%"][vc_column][vc_column_text el_class="subtitle"]
 <h3 style="text-align: center;">In Protein Provisions to Business Customers</h3>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content" content_placement="middle" el_class="no-link"][vc_column][TS_VCSC_Image_Link_Grid content_images="159,705,711,1040,720" content_images_size="large" content_images_titles="Beef,Poultry,Lamb|comma| Pork &amp; Veal,Seafood,Wild Game &amp; Speciality," content_images_links="/products/beef/,/products/poultry/,/products/lamb-poultry-veal/,/products/seafood/,/products/wild-game-specialty/" data_grid_target="_parent" data_grid_invalid="display" data_grid_order="true" el_file=""][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][vc_empty_space height="25px"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content" content_placement="middle" el_class="no-link"][vc_column][TS_VCSC_Image_Link_Grid content_images="159,705,711,1040,1526" content_images_size="large" content_images_titles="Beef,Poultry,Lamb|comma| Pork &amp; Veal,Seafood,Wild Game &amp; Speciality," content_images_links="/products/beef/,/products/poultry/,/products/lamb-poultry-veal/,/products/seafood/,/products/wild-game-specialty/" data_grid_target="_parent" data_grid_invalid="display" data_grid_order="true" el_file=""][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column][vc_empty_space height="25px"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Full Service Custom Protein Processing</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is one of North America’s largest full service BRC Certified custom protein processors. We serve restaurants, theme parks, airlines, food service, and other businesses.  Our state-of-the-art fully industrialized 70,000 square foot complex in Southern California offers a full spectrum of raw, fresh and frozen protein products, specializing in:
 <ul>
