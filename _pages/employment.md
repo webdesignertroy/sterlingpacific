@@ -20,6 +20,8 @@ layout_key:
   - ""
 post_slider_check_key:
   - "0"
+slide_template:
+  - default
 ---
 [vc_row content_placement="middle" animation_view="fadeInLeft" css3animations_in="Fade In Left"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h1 style="text-align: center;">Employment</h1>
@@ -44,9 +46,7 @@ post_slider_check_key:
 [/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
 <div class="presentation-container">
 <div class="presentation-image">
-
-<img class="alignnone wp-image-929 size-large" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/driving.jpg" alt="driving3" width="731" height="1024" />
-<div class="overlay-text">Driving</div>
+<div class="overlay-text"><img class="alignnone wp-image-1532" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/sterling_trucks-sign-portrait-1-222x300.jpg" alt="" width="307" height="415" />Driving</div>
 </div>
 <ul>
  	<li>Truck and Diesel Mechanics</li>
@@ -61,7 +61,7 @@ post_slider_check_key:
 <div class="presentation-container">
 <div class="presentation-image">
 
-<img class="alignnone wp-image-903 size-large" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/production-731x1024.jpg" alt="production" width="731" height="1024" />
+<img class="alignnone wp-image-1531" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/sterling_warehouse-emp-DSC_0286-229x300.jpg" alt="" width="389" height="510" />
 <div class="overlay-text">Production</div>
 </div>
 <ul>
