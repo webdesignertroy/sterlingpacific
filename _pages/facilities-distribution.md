@@ -23,11 +23,11 @@ post_slider_check_key:
 slide_template:
   - default
 ---
-[vc_row 0=""][vc_column 0=""][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
+[vc_row][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h1 class="page-title" style="text-align: center;">Facilities &amp; Delivery <img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
-[/vc_column_text][/vc_column][/vc_row][vc_row animation_view="fadeIn" css3animations_in="Fade In" el_class="no-link"][vc_column 0=""][TS_VCSC_Image_Link_Grid content_images="1571" content_images_size="large" data_grid_invalid="display" data_grid_space="1"][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space 0=""][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="98%" animation_speed="1500"][vc_column_inner 0=""][vc_column_text el_class="say-it-loud"]
+[/vc_column_text][/vc_column][/vc_row][vc_row animation_view="fadeIn" css3animations_in="Fade In" el_class="no-link"][vc_column][TS_VCSC_Image_Link_Grid content_images="1571" content_images_size="large" data_grid_invalid="display" data_grid_space="1"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="98%" animation_speed="1500"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Facilities</h3>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1467155188898{margin-bottom: -30px !important;}"][vc_column_inner 0=""][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat is synonymous with quality. Our commitment to invest our employees, state-of-the-art facilities, and equipment are core to continually achieving industry leadership. Highlights of our facilities include:
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1467155188898{margin-bottom: -30px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat is synonymous with quality. Our commitment to invest our employees, state-of-the-art facilities, and equipment are core to continually achieving industry leadership. Highlights of our facilities include:
 <ul>
  	<li>Over 70,000 square feet of state-of-the-art equipment with 100,000 square feet of additional capacity</li>
  	<li>BRC Certified - Grade A</li>
@@ -37,6 +37,7 @@ slide_template:
  	<li>Specialized Poultry operations for maximum consistency and output</li>
  	<li>Vacuum tumbling and line injection processing</li>
  	<li>Fully built and equipped in-house laboratory with food safety staff</li>
+ 	<li>Rigorous employee safety program with solid safety history</li>
  	<li>Friendly, accessible customer service staff who can readily assist you</li>
 </ul>
 We operate day and night shifts, six days per week, to provide just-in-time products and service to customers.[/vc_column_text][vc_empty_space height="20px"][vc_column_text el_class="say-it-loud"]
@@ -47,4 +48,4 @@ We operate day and night shifts, six days per week, to provide just-in-time pr
  	<li><strong>TRI-STATE:</strong> In addition to delivering throughout California, we also ship to Las Vegas and Phoenix metropolitan areas daily.</li>
  	<li><strong>NORTH AMERICA AND BEYOND:</strong> We have an extensive logistics and distribution network to serve nationwide and beyond. We also offer will call programs for produce and fresh grocery distributors to facilitate efficient logistics for its customers.</li>
 </ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
