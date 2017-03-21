@@ -28,12 +28,22 @@ slide_template:
 [/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1468326519687{margin-top: -25px !important;}"][vc_column][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1468326653344{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Join Our Team</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat Company is pleased to provide a working environment that encourages growth, achievement, and innovative thinking.  We have a strong promote-from-within culture, and at the same time, also look outside for creative and experienced new talent to join our team.  As a large employer, we hire across a full spectrum of job categories.[/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]
+<div class="overlay-text"><img class="alignnone size-full wp-image-1602" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/06/sterling_office-worker-icon.png" alt="" width="256" height="256" /></div>
+<div class="overlay-text"></div>
+<div class="overlay-text"></div>
+<div class="overlay-text"></div>
+<div class="overlay-text"></div>
 <div class="presentation-container">
-<div class="presentation-image">
 
-<img class="alignnone wp-image-900 size-large" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/11/woman-business-suit2.jpg" alt="woman-business-suit" width="731" height="1024" />
-<div class="overlay-text">Professional</div>
-</div>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Professional
 <ul>
  	<li>Customer Service</li>
  	<li>Sales and Marketing</li>
