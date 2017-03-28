@@ -27,7 +27,7 @@ slide_template:
 
 Our steady, strategic growth has allowed us to maintain attention to detail and customer service we provided as a family-run business, while also being able to offer our customers tremendous economies of scale and a broad product selection at competitive pricing.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="1548" img_size="full" alignment="center"][vc_column_text el_class="sterling-caption"]This cleaver and the delivery van (above) were used by Joseph Asher in the original company that would eventually become today's Sterling Pacific Meat Company.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="about-us"]
 <h4><strong>Mission: </strong>Commitment to Food Safety, Quality, Consistency &amp; Exceptional Service</h4>
-[/vc_column_text][vc_row_inner 0=""][vc_column_inner width="1/3"][vc_single_image image="1515" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text el_class="about-us"]
+[/vc_column_text][vc_row_inner 0=""][vc_column_inner width="1/3"][vc_single_image image="1504" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text el_class="about-us"]
 <ul>
  	<li>To ensure our customers succeed by providing safe quality products, superior customer service and product knowledge unsurpassed in our industry.</li>
  	<li>To exceed expectations beyond industry and legal requirements by producing the safest and highest quality products using our Food Safety and Quality Management programs.</li>
