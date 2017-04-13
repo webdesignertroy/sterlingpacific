@@ -6,7 +6,7 @@ post_date: 2016-06-27 23:21:22
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/terms-of-use/
+  http://sterlingpacificmeat.com/terms-of-use/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";N;s:11:"_thumb_type";s:10:"attachment";}'

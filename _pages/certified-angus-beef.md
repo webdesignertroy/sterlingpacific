@@ -6,7 +6,7 @@ post_date: 2016-06-26 23:54:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/products/certified-angus-beef/
+  http://sterlingpacificmeat.com/products/certified-angus-beef/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:692;s:11:"_thumb_type";s:10:"attachment";}'
@@ -33,4 +33,4 @@ Aurora's TraceBack program is the first of its kind in the US to offer guarantee
 
 &nbsp;
 
-***We can re-certify/are CAB Producer?[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]We are proud to serve restaurants, theme parks, hotels, grocery chains, wholesalers and more - working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" add_icon="true" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+***We can re-certify/are CAB Producer?[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]We are proud to serve restaurants, theme parks, hotels, grocery chains, wholesalers and more - working to deliver exactly what your business demands and expects. In addition to our exceptional products, we offer a wide variety of custom and value-added flavor profiles, portion control services, fancy meats, and more. No business is too large or small.  Contact us today to learn how we can add value to your business.[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" add_icon="true" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]

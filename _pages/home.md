@@ -5,7 +5,7 @@ author: SPM Online
 post_date: 2017-03-18 01:30:20
 post_excerpt: ""
 layout: page
-permalink: http://sterlingpacificmeat.com/home/
+permalink: http://sterlingpacificmeat.com/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:2:"30";s:11:"_thumb_type";s:5:"thumb";}'

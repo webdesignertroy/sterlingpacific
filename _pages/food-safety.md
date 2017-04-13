@@ -6,7 +6,7 @@ post_date: 2016-06-24 03:03:06
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/food-safety/
+  http://sterlingpacificmeat.com/food-safety/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:1129;s:11:"_thumb_type";s:10:"attachment";}'
@@ -40,4 +40,4 @@ slide_template:
  	<li>Quick turn around on lab results</li>
  	<li>BAX Machine to meet and exceed USDA requirements</li>
 </ul>
-In addition, product goes through multiple x-rays to ensure the most stringent in food safety processes.  Call us today to learn how we can put our proven food safety program to work in delivering quality products to your business.[/vc_column_text][vc_column_text el_class="say-it-loud"][/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+In addition, product goes through multiple x-rays to ensure the most stringent in food safety processes.  Call us today to learn how we can put our proven food safety program to work in delivering quality products to your business.[/vc_column_text][vc_column_text el_class="say-it-loud"][/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]

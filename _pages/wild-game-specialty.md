@@ -6,7 +6,7 @@ post_date: 2016-06-26 23:31:03
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/products/wild-game-specialty/
+  http://sterlingpacificmeat.com/products/wild-game-specialty/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:725;s:11:"_thumb_type";s:10:"attachment";}'
@@ -28,7 +28,7 @@ slide_template:
   - default
 ---
 [vc_row animation_view="fadeIn" css3animations_in="Fade In"][vc_column 0=""][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
-<h1 class="page-title" style="text-align: center;">Wild Game &amp; Specialty<img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
+<h1 class="page-title" style="text-align: center;">Wild Game &amp; Specialty<img class="brc" src="http://sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
 [/vc_column_text][/vc_column][/vc_row][vc_row content_placement="middle" animation_view="fadeInDown" css3animations_in="Fade In Down" el_class="no-link"][vc_column 0=""][TS_VCSC_Image_Link_Grid content_images="1526,722" content_images_size="large" data_grid_invalid="display" data_grid_breaks="240,720" data_grid_order="true" el_file=""][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space height="20"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner 0=""][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Buffalo, Elk, Duck, Cheeses, Spices, Marinades &amp; More</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Have specialized or exotic protein needs? We provide an assortment of exotic meats and fowl, such as buffalo, elk, duck, and also many hard to get products.
@@ -62,4 +62,4 @@ We are proud to serve large scale restaurant chains, theme parks, hotels, airlin
 </div>
 </div>
 </div>
-[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+[/vc_column_text][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contat%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]

@@ -6,7 +6,7 @@ post_date: 2016-11-18 17:05:12
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/facilities-distribution/
+  http://sterlingpacificmeat.com/facilities-distribution/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:2:"30";s:11:"_thumb_type";s:5:"thumb";}'
@@ -24,7 +24,7 @@ slide_template:
   - default
 ---
 [vc_row][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
-<h1 class="page-title" style="text-align: center;">Facilities &amp; Delivery <img class="brc" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
+<h1 class="page-title" style="text-align: center;">Facilities &amp; Delivery <img class="brc" src="http://sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
 [/vc_column_text][vc_row_inner animation_view="fadeIn" css3animations_in="Fade In" el_class="no-link"][vc_column_inner][TS_VCSC_Image_Link_Grid content_images="1618" content_images_size="large" data_grid_invalid="display"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="98%" animation_speed="1500"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Facilities</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1467155188898{margin-bottom: -30px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]Sterling Pacific Meat is synonymous with quality. Our commitment to invest our employees, state-of-the-art facilities, and equipment are core to continually achieving industry leadership. Highlights of our facilities include:

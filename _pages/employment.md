@@ -6,7 +6,7 @@ post_date: 2016-06-29 08:31:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/employment/
+  http://sterlingpacificmeat.com/employment/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:1603;s:11:"_thumb_type";s:10:"attachment";}'
@@ -31,7 +31,7 @@ slide_template:
 <div class="presentation-container">
 <div class="presentation-image">
 
-<img class="alignnone wp-image-1532" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2017/03/vector-hr2.jpg" alt="Professional" width="731" height="1024" />
+<img class="alignnone wp-image-1532" src="http://sterlingpacificmeat.com/wp-content/uploads/2017/03/vector-hr2.jpg" alt="Professional" width="731" height="1024" />
 <div class="overlay-text">Professional</div>
 </div>
 <ul>
@@ -47,7 +47,7 @@ slide_template:
 <div class="presentation-container">
 <div class="presentation-image">
 
-<img class="alignnone wp-image-1532" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2017/03/truck-portrait.jpg" alt="Driving - Sterling Truck Fleet" width="731" height="1024" />
+<img class="alignnone wp-image-1532" src="http://sterlingpacificmeat.com/wp-content/uploads/2017/03/truck-portrait.jpg" alt="Driving - Sterling Truck Fleet" width="731" height="1024" />
 <div class="overlay-text">Driving</div>
 </div>
 <ul>
@@ -63,7 +63,7 @@ slide_template:
 <div class="presentation-container">
 <div class="presentation-image">
 
-<img class="alignnone wp-image-1531" src="http://dev.sterlingpacificmeat.com/wp-content/uploads/2017/03/employees.jpg" alt="Production - Sterling Employees" width="731" height="1024" />
+<img class="alignnone wp-image-1531" src="http://sterlingpacificmeat.com/wp-content/uploads/2017/03/employees.jpg" alt="Production - Sterling Employees" width="731" height="1024" />
 <div class="overlay-text">Production</div>
 </div>
 <ul>
@@ -519,7 +519,7 @@ Corregir Problemas, Ética del trabajo, Servicio al Cliente, Comunicación Oral,
 
 Cuando se ejecuta las obligaciones de este trabajo, el empleado casi siempre está parado; camina; usa las manos para manejar y tocar; sube o se balancea y habla y oye. Es requerido que a veces el empleado se siente. Casi siempre el empleado tiene que cargar o mover hasta 70 o más libras. Habilidad de ver cerca, lejos, visión purificada, percepción profunda, y habilidad de enfocar. Es requerido que el empleado este en lugar de trabajo frio.
 
-<strong> </strong>[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][/vc_row][vc_row][vc_column][vc_column_text el_class="say-it-loud"]To apply to a specific posting or if you feel you are well qualified for consideration for another position, please complete an application by clicking on the link below. Drivers, please fill out the alternative application.[/vc_column_text][vc_row_inner][vc_column_inner width="1/2"][vc_btn title="Employment Application" style="flat" align="center" i_icon_fontawesome="fa fa-download" add_icon="true" el_class="cta" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2016%2F07%2Femployment-application.pdf||target:%20_blank|rel:nofollow"][/vc_column_inner][vc_column_inner width="1/2"][vc_btn title="Driver Application" style="flat" align="center" i_icon_fontawesome="fa fa-download" add_icon="true" el_class="cta" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fdriver-application.pdf||target:%20_blank|rel:nofollow"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Printed applications must be filled out completely and mailed to:
+<strong> </strong>[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][/vc_row][vc_row][vc_column][vc_column_text el_class="say-it-loud"]To apply to a specific posting or if you feel you are well qualified for consideration for another position, please complete an application by clicking on the link below. Drivers, please fill out the alternative application.[/vc_column_text][vc_row_inner][vc_column_inner width="1/2"][vc_btn title="Employment Application" style="flat" align="center" i_icon_fontawesome="fa fa-download" add_icon="true" el_class="cta" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2016%2F07%2Femployment-application.pdf||target:%20_blank|rel:nofollow"][/vc_column_inner][vc_column_inner width="1/2"][vc_btn title="Driver Application" style="flat" align="center" i_icon_fontawesome="fa fa-download" add_icon="true" el_class="cta" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fdriver-application.pdf||target:%20_blank|rel:nofollow"][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Printed applications must be filled out completely and mailed to:
 <p class="company-address">Sterling Pacific Meat Company
 Attn: Career Opportunities
 6114 Scott Way

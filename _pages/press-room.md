@@ -6,7 +6,7 @@ post_date: 2016-07-19 11:34:47
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/press-room/
+  http://sterlingpacificmeat.com/press-room/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";N;s:11:"_thumb_type";s:10:"attachment";}'
@@ -25,7 +25,7 @@ post_slider_check_key:
 ---
 [vc_row content_placement="middle" animation_view="fadeInLeft" css3animations_in="Fade In Left"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text css_animation="none" el_class="subtitle"]
 <h2 style="text-align: center;">Press Room</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][TS_VCSC_Fancy_List list_type="image" marker_image="http://dev.sterlingpacificmeat.com/wp-content/plugins/ts-visual-composer-extend/images/bullets/bullet_arrow_blue.png" marker_size="14" content_size="16" line_height="34" frame_type="dotted" el_file=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][TS_VCSC_Fancy_List list_type="image" marker_image="http://sterlingpacificmeat.com/wp-content/plugins/ts-visual-composer-extend/images/bullets/bullet_arrow_blue.png" marker_size="14" content_size="16" line_height="34" frame_type="dotted" el_file=""]
 <ul>
  	<li><a href="http://conta.cc/29TQvvb" target="_blank" rel="nofollow">Free Lunches Celebrating Police &amp; Fire |  http://conta.cc/29TQvvb</a></li>
  	<li><a href="http://conta.cc/29TQvvb" target="_blank" rel="nofollow">Employee Appreciation with The Habit Burger Grill |  http://conta.cc/29TQvvb</a></li>

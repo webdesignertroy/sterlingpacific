@@ -5,8 +5,7 @@ author: SPM Online
 post_date: 2016-07-12 05:17:37
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dev.sterlingpacificmeat.com/site-map/
+permalink: http://sterlingpacificmeat.com/site-map/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";N;s:11:"_thumb_type";s:10:"attachment";}'

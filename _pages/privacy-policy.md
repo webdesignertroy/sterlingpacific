@@ -6,7 +6,7 @@ post_date: 2016-06-27 23:04:22
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/privacy-policy/
+  http://sterlingpacificmeat.com/privacy-policy/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";N;s:11:"_thumb_type";s:10:"attachment";}'
@@ -53,4 +53,4 @@ post_slider_check_key:
 <h3>Other websites</h3>
 <span class="m2bbody">This website may contain links to other websites. We are not responsible for the privacy policies or practices of any third party.</span>
 <h3>Contact</h3>
-<span class="m2bbody">If you have any questions about this privacy policy or our treatment of your personal information, please contact us</span><span class="m2bbodyblue">.</span>[/vc_column_text][vc_empty_space][vc_btn title="CONTACT US" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|||"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+<span class="m2bbody">If you have any questions about this privacy policy or our treatment of your personal information, please contact us</span><span class="m2bbodyblue">.</span>[/vc_column_text][vc_empty_space][vc_btn title="CONTACT US" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|||"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]

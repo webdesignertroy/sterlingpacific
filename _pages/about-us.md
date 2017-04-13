@@ -6,7 +6,7 @@ post_date: 2016-10-11 00:41:24
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.sterlingpacificmeat.com/newhome/about-us/
+  http://sterlingpacificmeat.com/home/about-us/
 published: true
 fpu-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"1300";s:11:"_thumb_type";s:5:"thumb";}'
@@ -40,4 +40,4 @@ Our steady, strategic growth has allowed us to maintain attention to detail and 
 <h4><strong>Sterling Pacific Meat Company Into The Future </strong></h4>
 [/vc_column_text][vc_row_inner 0=""][vc_column_inner width="1/3"][vc_single_image image="1504" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text el_class="about-us"]The vision for Sterling Pacific Meat Company into the future includes continued investments in state-of-the-art technologies and people so we can continue to ensure the very best in food safety, quality, efficiency and consistency for our customers.
 
-Our vision also includes execution of architectural plans to expand into more than 100,000 square feet of ADDITIONAL capacity.  We are proud to have 40 strong years serving customers - and we look forward to 40 more.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space 0=""][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fdev.sterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contact%20Us||" el_class="cta"][vc_empty_space 0=""][/vc_column][/vc_row]
+Our vision also includes execution of architectural plans to expand into more than 100,000 square feet of ADDITIONAL capacity.  We are proud to have 40 strong years serving customers - and we look forward to 40 more.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space 0=""][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contact%20Us||" el_class="cta"][vc_empty_space 0=""][/vc_column][/vc_row]
