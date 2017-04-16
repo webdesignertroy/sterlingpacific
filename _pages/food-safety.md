@@ -20,10 +20,12 @@ post_slider_check_key:
   - "0"
 slide_template:
   - default
+yst_is_cornerstone:
+  - ""
 ---
 [vc_row content_placement="middle" animation_view="fadeInLeft" css3animations_in="Fade In Left"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h2 style="text-align: center;">Food Safety</h2>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_row_inner animation_view="fadeIn" css3animations_in="Fade In" animation_offset="100%" animation_speed="1500"][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="2/3"][vc_single_image image="1129" img_size="large" alignment="center"][vc_single_image image="1502" img_size="large" alignment="center"][/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_empty_space height="20"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_row_inner animation_view="fadeIn" css3animations_in="Fade In" animation_offset="100%" animation_speed="1500"][vc_column_inner][vc_single_image image="1129" img_size="large" alignment="center"][vc_single_image image="1683" img_size="large" alignment="center"][/vc_column_inner][/vc_row_inner][vc_empty_space height="20"][vc_row_inner animation_view="fadeInRight" css3animations_in="Fade In Right" animation_offset="89%" animation_speed="1500" css=".vc_custom_1466901961143{margin-top: 0px !important;margin-bottom: -30px !important;padding-top: 0px !important;padding-bottom: 0px !important;}"][vc_column_inner][vc_column_text el_class="say-it-loud"]
 <h3 style="text-align: center;">Stringent Food Safety Standards</h3>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text el_class="say-it-loud"]Today, more than ever, the importance of food safety is at the forefront of every center-of-the-plate provider. Sterling Pacific Meat Company is committed to the highest food safety standards in the industry so you can rest assured all products manufactured and delivered are safe. We have a rigorous food safety system with fully documented standard operating procedures that are tested and monitored continuously by both our Quality Assurance team and outside 3rd parties to ensure we are meeting the highest quality and safety standards.
 
