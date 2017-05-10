@@ -19,7 +19,5 @@ post_slider_check_key:
   - "0"
 slide_template:
   - default
-yst_is_cornerstone:
-  - ""
 ---
-[vc_row full_width="stretch_row" content_placement="top"][vc_column][vc_column_text][rev_slider alias="home-page"][/vc_column_text][/vc_column][/vc_row]
+[vc_row full_width="stretch_row" content_placement="top"][vc_column][vc_column_text][rev_slider alias="home-page"][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="200px"][/vc_column][/vc_row]
