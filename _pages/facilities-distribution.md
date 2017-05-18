@@ -22,8 +22,6 @@ post_slider_check_key:
   - "0"
 slide_template:
   - default
-yst_is_cornerstone:
-  - ""
 ---
 [vc_row][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text el_class="subtitle"]
 <h1 class="page-title" style="text-align: center;">Facilities &amp; Delivery <img class="brc" src="http://sterlingpacificmeat.com/wp-content/uploads/2016/10/brc-logo-44x66.png" alt="BRC Food Certified" /></h1>
@@ -50,4 +48,4 @@ We operate day and night shifts, six days per week, to provide just-in-time pr
  	<li><strong>TRI-STATE:</strong> In addition to delivering throughout California, we also ship to Las Vegas and Phoenix metropolitan areas daily.</li>
  	<li><strong>NORTH AMERICA AND BEYOND:</strong> We have an extensive logistics and distribution network to serve nationwide and beyond. We also offer will call programs for produce and fresh grocery distributors to facilitate efficient logistics for its customers.</li>
 </ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
+[/vc_column_text][vc_empty_space][vc_btn title="Contact Us" style="flat" align="center" i_icon_fontawesome="fa fa-phone" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fcontact-us%2F%3Ffocus%3Dyour-name|title:Contact%20Us||" el_class="cta"][/vc_column][/vc_row][vc_row][vc_column][vc_empty_space height="" el_class="product-margin-bottom"][/vc_column][/vc_row]
