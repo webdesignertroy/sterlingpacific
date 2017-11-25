@@ -2,30 +2,12 @@
 ID: 1183
 post_title: Market
 author: SPM Online
-post_date: 2016-11-10 23:50:37
 post_excerpt: ""
 layout: page
 permalink: >
   http://sterlingpacificmeat.com/home/market/
 published: true
-fpu-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1301";s:11:"_thumb_type";s:5:"thumb";}'
-layout_key:
-  - ""
-post_slider_check_key:
-  - "0"
-slide_template:
-  - default
-yst_is_cornerstone:
-  - ""
+post_date: 2016-11-10 23:50:37
 ---
 [vc_row content_placement="middle" animation_view="fadeInLeft" css3animations_in="Fade In Left"][vc_column][vc_empty_space height="" el_class="product-margin"][vc_column_text css_animation="none" el_class="subtitle"]
 <h2 style="text-align: center;">Agriculture Futures</h2>
