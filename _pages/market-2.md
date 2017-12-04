@@ -13,7 +13,7 @@ post_date: 2016-11-10 23:50:37
 <h2 style="text-align: center;">Agriculture Futures</h2>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text el_class="market"]
 <h4>Grain</h4>
-[/vc_column_text][vc_column_text][stock_market_widget symbol="C=F,W=F,O=F,RR=F,S=F,SM=F,BO=F" type="table" symbol="C=F,W=F,O=F,RR=F,S=F,SM=F,BO=F" template="sterlingpacificmeat" color="default" fields="s,n,l1,c1,p2" refresh_frequency="0"][/vc_column_text][vc_column_text el_class="mini-note"]Source: Yahoo! Finance[/vc_column_text][vc_empty_space][vc_column_text el_class="market"]
+[/vc_column_text][vc_column_text][stock_market_widget symbol="C=F,W=F,O=F,RR=F,S=F,SM=F,BO=F" type="table" symbol="C=F,W=F,O=F,RR=F,S=F,SM=F,BO=F" template="sterlingpacificmeat" color="default" fields="s,n,l1,c1,quote.regularMarketChangePercent" refresh_frequency="0"][/vc_column_text][vc_column_text el_class="mini-note"]Source: Yahoo! Finance[/vc_column_text][vc_empty_space][vc_column_text el_class="market"]
 <h4>Softs</h4>
 [/vc_column_text][vc_column_text][stock_market_widget symbol="CC=F,KC=F,SB=F,OJ=F,CT=F,LB=F,EH=F" type="table" symbol="CC=F,KC=F,SB=F,OJ=F,CT=F,LB=F,EH=F" template="sterlingpacificmeat" color="default" fields="s,n,l1,c1,quote.regularMarketChangePercent" refresh_frequency="0"][/vc_column_text][vc_column_text el_class="mini-note"]Source: Yahoo! Finance[/vc_column_text][vc_empty_space][vc_column_text el_class="market"]
 <h4>Livestock</h4>
