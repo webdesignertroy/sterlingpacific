@@ -5,7 +5,7 @@ author: SPM Online
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sterlingpacificmeat.com/home/market-2/
+  http://sterlingpacificmeat.com/home/market/
 published: true
 post_date: 2016-11-10 23:50:37
 ---
