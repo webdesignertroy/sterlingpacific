@@ -9,7 +9,7 @@ layout: post
 permalink: >
   http://sterlingpacificmeat.com/know-sterling-pacific-meat-halal-certified/
 published: true
-post_date: 2018-02-08 13:05:24
+post_date: 2018-02-08 03:05:24
 ---
 <span style="font-weight: 400;">Sterling Pacific Meat Company is pleased to announce it has been independently inspected for processing, packaging and labeling of Halal meat and poultry products for Muslim consumption by Islamic Enterprises and Services of America and has met or exceeded all guidelines for Halal Standard Operating Procedures according to Islamic Rites, thereby earning the Halal Certificate for meat processing plants.</span>
 
