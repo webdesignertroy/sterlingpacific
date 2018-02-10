@@ -3,7 +3,7 @@ ID: 1792
 post_title: >
   Did You Know Sterling Pacific Meat Is
   Halal Certified?
-author: SPM Online
+author: Collette Kakuk
 post_excerpt: ""
 layout: post
 permalink: >
