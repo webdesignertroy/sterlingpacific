@@ -3,7 +3,7 @@ ID: 1783
 post_title: >
   New! The Great Taste of a New York Strip
   in A Burger
-author: SPM Online
+author: Collette Kakuk
 post_excerpt: 'Sterling Pacific Meat Company is pleased to announce its newest addition to an already immense burger line up: The New York Strip Burger...'
 layout: post
 permalink: >
