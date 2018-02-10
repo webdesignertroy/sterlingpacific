@@ -21,7 +21,7 @@ Commerce, CA 90040</p>
 Commerce, CA 90040</p>
 <p><a href="tel:3238389400"><i class="fa fa-phone"></i>(323) 838-9400</a><br />
 <a id="contact-focus" href="#"><i class="fa fa-envelope"></i>Contact Us</a><br />
-<a href="https://www.facebook.com/SterlingPacificMeatCompany/" target="_blank"><i class="fa fa-facebook"></i>Visit Us On Facebook</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_separator 0=""][/vc_column][/vc_row][vc_row 0=""][vc_column width="1/2"][vc_column_text 0=""]</p>
+<a href="https://www.facebook.com/SterlingPacificMeatCompany/" target="_blank"><i class="fa fa-facebook"></i>Visit Us On Facebook</a>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_separator 0=""][/vc_column][/vc_row][vc_row 0=""][vc_column width="1/2" el_class="contact-description-fontawesome"][vc_column_text 0=""]</p>
 <h3>Let's Get Cooking!</h3>
 <p class="attentionfont">Fill out the Contact Form and let us know how we can start a dialogue to support your business needs.</p>
 <p>[/vc_column_text][vc_column_text 0=""]</p>
