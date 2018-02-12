@@ -1,6 +1,6 @@
 ---
 ID: 1979
-post_title: Employee Appreciation With GD Bro Burger
+post_title: Employee Appreciation with GD Bro Burger
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
