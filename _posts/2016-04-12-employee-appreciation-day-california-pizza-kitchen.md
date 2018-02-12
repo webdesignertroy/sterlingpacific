@@ -1,7 +1,7 @@
 ---
 ID: 1961
 post_title: >
-  Employee Appreciation Day With
+  Employee Appreciation Day with
   California Pizza Kitchen
 author: Collette Kakuk
 post_excerpt: ""
