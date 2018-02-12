@@ -1,8 +1,8 @@
 ---
 ID: 1955
 post_title: >
-  Employee Appreciation Day at Sterling
-  Pacific Meat Company
+  Employee Appreciation Day with Habit
+  Burger Grill
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
