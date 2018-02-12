@@ -1,6 +1,6 @@
 ---
 ID: 1974
-post_title: Employee Appreciation with Fat Burger
+post_title: Employee Appreciation with Fatburger
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
