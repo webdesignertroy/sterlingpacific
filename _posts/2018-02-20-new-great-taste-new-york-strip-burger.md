@@ -1,8 +1,6 @@
 ---
 ID: 1783
-post_title: >
-  New! The Great Taste of a New York Strip
-  in A Burger
+post_title: New York Strip in A Burger
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
