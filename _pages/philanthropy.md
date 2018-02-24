@@ -1,11 +1,11 @@
 ---
 ID: 2043
-post_title: Sterling Charities
+post_title: Philanthropy
 author: SPM Online
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sterlingpacificmeat.com/home/sterling-charities/
+  http://sterlingpacificmeat.com/home/philanthropy/
 published: true
 post_date: 2018-02-23 18:45:44
 ---
