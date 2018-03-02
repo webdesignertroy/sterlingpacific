@@ -9,7 +9,7 @@ layout: post
 permalink: >
   http://sterlingpacificmeat.com/aa-grade-sterling-pacific-meat-company-earns-top-brc-certification-grade/
 published: true
-post_date: 2018-02-08 02:40:38
+post_date: 2018-03-02 02:40:38
 ---
 <span style="font-weight: 400;">We are proud of our employees for their incredible dedication and expertise in earning Sterling Pacific Meat Company the prestigious BRC (British Retail Consortium) Certification with the highest available AA grade under the Global Standard for Food Safety.</span>
 
