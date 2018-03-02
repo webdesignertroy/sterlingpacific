@@ -1,6 +1,6 @@
 ---
 ID: 2144
-post_title: 'Add Scripts After the End of the Content &#8211; Before </body>'
+post_title: 'Add Scripts After the End of the Content and Before </body>'
 author: SPM Online
 post_excerpt: ""
 layout: page
