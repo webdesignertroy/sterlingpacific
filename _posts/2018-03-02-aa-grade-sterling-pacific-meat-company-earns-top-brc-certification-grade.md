@@ -1,8 +1,8 @@
 ---
 ID: 1787
 post_title: >
-  AA Grade! Sterling Pacific Meat Company
-  Earns Top BRC Certification Grade
+  Sterling Pacific Meat Company Earns Top
+  BRC Certification Grade for Food Safety
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
