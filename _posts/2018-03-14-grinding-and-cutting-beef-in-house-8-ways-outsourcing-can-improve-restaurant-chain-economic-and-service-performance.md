@@ -42,7 +42,7 @@ post_date: 2018-03-14 05:51:37
 
 <span style="font-weight: 400;">As partners to chefs and supply chain professionals in the restaurant, hospitality and other food service industries, Sterling Pacific Meat Company actively seeks to develop solutions that save our customers money, increase back of the house consistency and efficiency, and improve front of the house customer experience.</span>
 
-<span style="font-weight: 400;">From the desk of </span><a href="https://www.linkedin.com/in/collette-kakuk/"><span style="font-weight: 400;">Collette Kakuk, Vice President Marketing &amp; Sales at Sterling Pacific Meat Company</span></a>
+<span style="font-weight: 400;">From the desk of </span><a href="https://www.linkedin.com/in/collette-kakuk/"><span style="font-weight: 400;">Collette Kakuk, Vice President Marketing &amp; Business Development at Sterling Pacific Meat Company</span></a>
 
 <span style="font-weight: 400;">Company links: </span><a href="http://www.sterlingpacificmeat.com"><span style="font-weight: 400;">SterlingPacificMeat.com</span></a><span style="font-weight: 400;"> || </span><a href="https://www.linkedin.com/company/4067187/"><span style="font-weight: 400;">LinkedIn</span></a><span style="font-weight: 400;"> || </span><a href="https://www.facebook.com/SterlingPacificMeatCompany/"><span style="font-weight: 400;">Facebook</span></a><span style="font-weight: 400;"> </span>
 
