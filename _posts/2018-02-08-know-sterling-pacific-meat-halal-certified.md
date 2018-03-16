@@ -13,7 +13,7 @@ post_date: 2018-02-08 03:05:24
 ---
 <span style="font-weight: 400;">Sterling Pacific Meat Company is pleased to announce it has been independently inspected for processing, packaging and labeling of Halal meat and poultry products for Muslim consumption by Islamic Enterprises and Services of America and has met or exceeded all guidelines for Halal Standard Operating Procedures according to Islamic Rites, thereby earning the Halal Certificate for meat processing plants.</span>
 
-<span style="font-weight: 400;">“We have had strong initial demand and are pleased to have earned this certificate to be in strict adherence of Halal requirements. We offer many specialized programs, whether it is grass-fed beef, antibiotic-free products, natural or never ever products, and more. It is exciting to serve a growing market demand in Halal with such an optimistic future” stated Sterling Pacific Meat Company Vice President of Marketing &amp; Sales, Ms. Collette Kakuk.</span>
+<span style="font-weight: 400;">“We have had strong initial demand and are pleased to have earned this certificate to be in strict adherence of Halal requirements. We offer many specialized programs, whether it is grass-fed beef, antibiotic-free products, natural or never ever products, and more. It is exciting to serve a growing market demand in Halal with such an optimistic future” stated Sterling Pacific Meat Company Vice President of Marketing &amp; Business Development, Ms. Collette Kakuk.</span>
 
 ___________
 
