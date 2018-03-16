@@ -44,10 +44,10 @@ post_date: 2018-03-14 05:51:37
 
 <span style="font-weight: 400;">From the desk of </span><a href="https://www.linkedin.com/in/collette-kakuk/"><span style="font-weight: 400;">Collette Kakuk, Vice President Marketing &amp; Business Development at Sterling Pacific Meat Company</span></a>
 
-<span style="font-weight: 400;">Company links: </span><a href="http://www.sterlingpacificmeat.com"><span style="font-weight: 400;">SterlingPacificMeat.com</span></a><span style="font-weight: 400;"> || </span><a href="https://www.linkedin.com/company/4067187/"><span style="font-weight: 400;">LinkedIn</span></a><span style="font-weight: 400;"> || </span><a href="https://www.facebook.com/SterlingPacificMeatCompany/"><span style="font-weight: 400;">Facebook</span></a><span style="font-weight: 400;"> </span>
-
-<span style="font-weight: 400;">----------------------</span>
+<span style="font-weight: 400;">---------------------</span>
 
 <span style="font-weight: 400;">Sterling Pacific Meat Company is one of North America’s largest full service BRC Certified custom protein processors serving restaurants, theme parks, airlines, food service, and other businesses.  A state-of-the-art, fully industrialized 70,000 square foot complex is USDA continuously inspected and offers a full spectrum of raw, fresh and frozen beef, poultry, pork, lamb, seafood and other protein products delivered nationwide. </span>
 
 <span style="font-weight: 400;">For those interested in learning more about Sterling Pacific Meat Company please contact us at  </span><span style="font-weight: 400;">(323) 838-9400 or Matt.Cullen@SterlingPacificMeat.com.</span>
+
+<span style="font-weight: 400;">Company links: </span><a href="http://www.sterlingpacificmeat.com"><span style="font-weight: 400;">SterlingPacificMeat.com</span></a><span style="font-weight: 400;"> || </span><a href="https://www.linkedin.com/company/4067187/"><span style="font-weight: 400;">LinkedIn</span></a><span style="font-weight: 400;"> || </span><a href="https://www.facebook.com/SterlingPacificMeatCompany/"><span style="font-weight: 400;">Facebook</span></a><span style="font-weight: 400;"> </span>
