@@ -1,8 +1,6 @@
 ---
 ID: 2194
-post_title: >
-  Over 40 Years of Superior Protein
-  Provision
+post_title: Over 40 Years of Protein Provision
 author: Collette Kakuk
 post_excerpt: ""
 layout: post
