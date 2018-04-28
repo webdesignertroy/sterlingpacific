@@ -13,10 +13,10 @@ post_date: 2018-04-28 09:25:32
 
 <span style="font-weight: 400;">Following are the biggest burger trends we are seeing from clients at Sterling Pacific Meat Company for 2018:</span>
 <ol>
- 	<li style="list-style-type: none">
+ 	<li style="list-style-type: none;">
 <ol>
  	<li><b>Boujee Burgers:</b><span style="font-weight: 400;"> Burgers for 2018 are indulgent and upscale with a variety of toppings, including goat cheese, truffle oil, foie gras, aolis, marmalades, </span><span style="font-weight: 400;">sautéed spinach, havarti, candied bacon </span><span style="font-weight: 400;">and other healthy and exotic toppings. Not surprisingly, these boujee options merit higher menu prices.</span></li>
- 	<li><b>All About Blend: </b><span>Burger blends are all the rage extending beyond traditional chuck, to include short rib, brisket, oxtail, rib eye, flank and much, much more.  Our recent signature burger ground from New York strip steak has been a big hit among and there is also more attention to breeds (hello Wagyu). Customers are also loving  softer bite patties, which mimic hand formation, but we produce on production scale with state of the art technology. See video here: </span><a href="https://www.linkedin.com/feed/update/urn:li:activity:6387759485498249217"><span>Soft Bite Patty Formation Video</span></a><b></b></li>
+ 	<li><b>All About Blend: </b>Burger blends are all the rage extending beyond traditional chuck, to include short rib, brisket, oxtail, rib eye, flank and much, much more.  Our recent signature burger ground from New York strip steak has been a big hit among and there is also more attention to breeds (hello Wagyu). Customers are also loving  softer bite patties, which mimic hand formation, but we produce on production scale with state of the art technology. See video here: <a href="https://www.linkedin.com/feed/update/urn:li:activity:6387759485498249217">Soft Bite Patty Formation Video</a><b></b></li>
  	<li><b>Portions of All Sizes</b><span style="font-weight: 400;">: 2018 is the year for everything from giant, premium burgers to sliders and mini-portions.</span></li>
  	<li><b>Global Themes</b><span style="font-weight: 400;">: From bold Mexican and Asian flavors to Korean, Greek, Cajun, and more. International flavors are hot and growing, and the burger is the perfect vehicle to test drive and transport many flavors. Sriracha anyone?</span></li>
  	<li><b>Fancy Buns: <span style="font-weight: 400;">Artisan, brioche, potato, savory, sourdough, ciabatta, focaccia, pretzel, and more. The buns are fancy and the options nearly endless for 2018.</span></b></li>
@@ -28,10 +28,6 @@ post_date: 2018-04-28 09:25:32
 </ol>
 </li>
 </ol>
-&nbsp;
-
-&nbsp;
-
 <span style="font-weight: 400;">“The burger epitomizes the perfect vehicle to adapt to new trends and international flavors. As one of the largest processors of ground beef in the United States, we love working with customers to develop new blends and visions for this American staple” stated Collette Kakuk, Vice President of Marketing and Business Development at Sterling Pacific Meat Company.</span>
 
 <span style="font-weight: 400;">With Americans eating enough burgers to circle the earth 32 times each year, we see no end in sight for the endless ways this versatile staple can be served.</span>
