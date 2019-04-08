@@ -26,7 +26,7 @@ Commerce, CA 90040
 <h3>Let's Get Cooking!</h3>
 <p class="attentionfont">Fill out the Contact Form and let us know how we can start a dialogue to support your business needs.</p>
 [/vc_column_text][vc_column_text 0=""]
-<p class="attentionfont">Wish to contact Sales directly? Please email <a href="mailto:matt.cullen@sterlingpacificmeat.com">Matt.Cullen@SterlingPacificMeat.com</a></p>
+<p class="attentionfont">Wish to contact Sales directly? Please email <a href="mailto:spmcwebsiteleads@sterlingpacificmeat.com">spmcwebsiteleads@sterlingpacificmeat.com</a></p>
 [/vc_column_text][vc_column_text 0=""]Your privacy is important. No information is shared with 3rd parties.[/vc_column_text][vc_row_inner][vc_column_inner width="1/3"][vc_btn title="Privacy Policy »" style="flat" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fprivacy-policy%2F|||"][/vc_column_inner][vc_column_inner width="2/3"][vc_btn title="Print &amp; Complete Credit App" style="flat" i_icon_fontawesome="fa fa-file-text-o" add_icon="true" link="url:http%3A%2F%2Fsterlingpacificmeat.com%2Fwp-content%2Fuploads%2F2017%2F03%2FCredit-Application.pdf|title:Credit%20Application%20Placeholder|target:%20_blank|" el_class="cta"][/vc_column_inner][/vc_row_inner][vc_column_text 0=""]
 <p class="attentionfont"><a href="tel:3238389400">Call Us: (323) 838-9400</a></p>
 [/vc_column_text][/vc_column][vc_column width="1/2"][contact-form-7 id="452"][/vc_column][/vc_row][vc_row 0=""][vc_column 0=""][vc_empty_space height="70px"][/vc_column][/vc_row]
